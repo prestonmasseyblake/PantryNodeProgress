@@ -15,7 +15,7 @@
 -Built out the form validation and axios requests for login and register 
 - ran scrums as scrum leader and reported progress to class during class standups
 ### Sprint 3 (April 4 - 17):
-- created the first interaction login between the frontend and the backend application
+- created the first interaction login between the frontend and the backend application https://github.com/ChicoState/PantryNode/pull/101
 ### Sprint 4 (April 18 - May 1):
 - update the frontend readme to reflect dependencies as well as page structure 
 - worked with Mike to get CORS headers working allowing the frontend to talk to the backend 
