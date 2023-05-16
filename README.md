@@ -25,6 +25,8 @@
 ### Sprint 2 (March 21 - April 3):
 - Built the Login & Signup Screens https://github.com/ChicoState/PantryNode/pull/84
 
+- Created an issue for developing the home screen and outlined what exactly needed to build and what style guidelines to follow. (https://github.com/ChicoState/PantryNode/issues/68)
+
 - Built out the form validation and axios requests for login and register https://github.com/ChicoState/PantryNode/pull/84
 
 - ran scrums as scrum leader and reported progress to class during class standups
