@@ -25,7 +25,7 @@
 - ran scrums as scrum leader and reported progress to class during class standups 
 ### Sprint 2 (March 21 - April 3):
 - Built the Login & Signup Screens https://github.com/ChicoState/PantryNode/pull/84
-
+- reviewed and accepted multiple pull requests so that they coudl be merged into main 
 - Open an issue for creating Documentation Of Dependencies For Frontend Update Readme.md with how to start and dependencies. (Create Documentation Of Dependencies For Frontend Update Readme.md with how to start and dependencies). I ultimately completed this issue myself in a later sprint. But there was good debate and contributions from team members in this issue. 
 
 - Created an issue for developing the home screen and outlined what exactly needed to build and what style guidelines to follow. (https://github.com/ChicoState/PantryNode/issues/68)
@@ -36,9 +36,11 @@
 - ran scrums as scrum leader and reported progress to class during class standups
 ### Sprint 3 (April 4 - 17):
 - created the first interaction login between the frontend and the backend application using axios http request client as well as useState and useEffect hook https://github.com/ChicoState/PantryNode/pull/101
+- reviewed and accepted multiple pull requests so that they coudl be merged into main 
 - ran scrums as scrum leader and reported progress to class during class standups
 ### Sprint 4 (April 18 - May 1):
 - update the frontend readme to reflect dependencies as well as page structure (https://github.com/ChicoState/PantryNode/pull/220)
+- reviewed and accepted multiple pull requests so that they coudl be merged into main 
 ### Sprint 5 (May 2 - 15):
 - worked with Mike to get CORS headers working allowing the frontend to talk to the backend (https://github.com/ChicoState/PantryNode/issues/120)
 
