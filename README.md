@@ -15,7 +15,7 @@
 - built a Figma project with all the different screens to be developed (screenshooting running previous application, labeling, and layout design guidelines practices).
 # timeline 
 ### Sprint 1 (February 28 - March 20):
-- built a Figma project with all the different screens to be developed 
+- built a Figma project with all the different screens to be developed (https://www.figma.com/file/Ioe4ZC15X3NFJMSZPHeuPr/Pantry-Node-team-library?type=design&node-id=0%3A1&t=5anUsNtQZ2wqrnO0-1) 
 - created a color guide for the frontend 
 - ran scrums as scrum leader and reported progress to class during class standups
 ### Sprint 2 (March 21 - April 3):
