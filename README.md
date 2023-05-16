@@ -11,7 +11,7 @@
 - created a color guide for the frontend 
 - ran scrums as scrum leader and reported progress to class during class standups
 ### Sprint 2 (March 21 - April 3):
-- Built the Login & Signup Screens
+- Built the Login & Signup Screens https://github.com/ChicoState/PantryNode/pull/84
 -Built out the form validation and axios requests for login and register 
 - ran scrums as scrum leader and reported progress to class during class standups
 ### Sprint 3 (April 4 - 17):
