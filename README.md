@@ -8,13 +8,13 @@
 
 # Pantry Node Progress 
 # Gallery 
-<div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: space-between;">
 
-![figma](./figma.png)
-![login](./login.png)
-![register](./register.png)
+  <img src="figma.png" alt="figma" style="max-width:200px;"/>
+  <img src="login.png" alt="login" style="max-width:200px;"/>
+  <img src="register.png" alt="register" style="max-width:200px;"/>
 
-</div>
+  </div>
 # highlights 
 - Took a leadership role in architecting how the frontend application would be developed
 - Created the initial react application and merged it into main branch in a seperate folder
