@@ -25,8 +25,8 @@
 - created the first interaction login between the frontend and the backend application using axios http request client as well as useState and useEffect hook https://github.com/ChicoState/PantryNode/pull/101
 ### Sprint 4 (April 18 - May 1):
 - update the frontend readme to reflect dependencies as well as page structure 
-- worked with Mike to get CORS headers working allowing the frontend to talk to the backend 
 ### Sprint 5 (May 2 - 15):
+- worked with Mike to get CORS headers working allowing the frontend to talk to the backend 
 
 
 
