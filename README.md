@@ -13,7 +13,8 @@
 ### Sprint 2 (March 21 - April 3):
 - Built the Login & Signup Screens https://github.com/ChicoState/PantryNode/pull/84
 
--Built out the form validation and axios requests for login and register 
+- Built out the form validation and axios requests for login and register https://github.com/ChicoState/PantryNode/pull/84
+
 - ran scrums as scrum leader and reported progress to class during class standups
 ### Sprint 3 (April 4 - 17):
 - created the first interaction login between the frontend and the backend application using axios http request client as well as useState and useEffect hook https://github.com/ChicoState/PantryNode/pull/101
