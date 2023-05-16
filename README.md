@@ -1,10 +1,11 @@
-<div style="display: flex;">
+
   
 <p align="left">
     <img width="200" src="3dgif.gif">
 </p>
-</div>
-##Preston Blake
+
+## Preston Blake
+
 # Pantry Node Progress 
 # Gallery 
 # highlights 
