@@ -1,7 +1,7 @@
 
   
 <p align="left">
-    <img width="200" src="3dgif.gif">
+    <img width="200" src="assets/3dgif.gif">
 </p>
 
 ## Preston Blake
@@ -11,9 +11,9 @@
   <div style="display: flex; justify-content: space-between;">
 
  
-  <img src="login.png" width="200" alt="login" style="max-width:200px;"/>
-  <img src="figma.png" width="200" alt="figma" style="max-width:200px;"/>
-  <img src="register.png" width="200" alt="register" style="max-width:200px;"/>
+  <img src="assets/login.png" width="200" alt="login" style="max-width:200px;"/>
+  <img src="assets/figma.png" width="200" alt="figma" style="max-width:200px;"/>
+  <img src="assets/register.png" width="200" alt="register" style="max-width:200px;"/>
 
   </div>
   
