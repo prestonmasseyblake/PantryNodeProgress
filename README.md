@@ -11,6 +11,7 @@
 # highlights 
 - Took a leadership role in architecting how the frontend application would be developed
 - Created the initial react application and merged it into main branch in a seperate folder
+- Built the login and signup flow 
 - helped decide which dependencies and styling to follow for the build 
 - built a Figma project with all the different screens to be developed (screenshooting running previous application, labeling, and layout design guidelines practices).
 # timeline 
