@@ -3,9 +3,8 @@
 <p align="left">
     <img width="200" src="3dgif.gif">
 </p>
-    ##Preston Blake
 </div>
-
+##Preston Blake
 # Pantry Node Progress 
 # Gallery 
 # highlights 
