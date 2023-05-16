@@ -29,7 +29,7 @@
 ### Sprint 4 (April 18 - May 1):
 - update the frontend readme to reflect dependencies as well as page structure 
 ### Sprint 5 (May 2 - 15):
-- worked with Mike to get CORS headers working allowing the frontend to talk to the backend 
+- worked with Mike to get CORS headers working allowing the frontend to talk to the backend (https://github.com/ChicoState/PantryNode/issues/120)
 
 
 
