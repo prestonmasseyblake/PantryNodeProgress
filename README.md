@@ -16,6 +16,7 @@
 - built a Figma project with all the different screens to be developed (screenshooting running previous application, labeling, and layout design guidelines practices).
 # timeline 
 ### Sprint 1 (February 28 - March 20):
+- Created the initial React Typescript and added to an isolated directory (https://github.com/ChicoState/PantryNode/pull/36)
 - built a Figma project with all the different screens to be developed (https://www.figma.com/file/Ioe4ZC15X3NFJMSZPHeuPr/Pantry-Node-team-library?type=design&node-id=0%3A1&t=5anUsNtQZ2wqrnO0-1) 
 - created a color guide for the frontend (in the figma project link)
 - created a style guide for the frontend (in the figma project link)
@@ -37,7 +38,7 @@
 - created the first interaction login between the frontend and the backend application using axios http request client as well as useState and useEffect hook https://github.com/ChicoState/PantryNode/pull/101
 - ran scrums as scrum leader and reported progress to class during class standups
 ### Sprint 4 (April 18 - May 1):
-- update the frontend readme to reflect dependencies as well as page structure 
+- update the frontend readme to reflect dependencies as well as page structure (https://github.com/ChicoState/PantryNode/pull/220)
 ### Sprint 5 (May 2 - 15):
 - worked with Mike to get CORS headers working allowing the frontend to talk to the backend (https://github.com/ChicoState/PantryNode/issues/120)
 
