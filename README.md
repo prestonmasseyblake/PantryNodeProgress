@@ -10,8 +10,9 @@
 # Gallery 
   <div style="display: flex; justify-content: space-between;">
 
-  <img src="figma.png" width="200" alt="figma" style="max-width:200px;"/>
+ 
   <img src="login.png" width="200" alt="login" style="max-width:200px;"/>
+  <img src="figma.png" width="200" alt="figma" style="max-width:200px;"/>
   <img src="register.png" width="200" alt="register" style="max-width:200px;"/>
 
   </div>
