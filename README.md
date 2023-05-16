@@ -16,7 +16,9 @@
 # timeline 
 ### Sprint 1 (February 28 - March 20):
 - built a Figma project with all the different screens to be developed (https://www.figma.com/file/Ioe4ZC15X3NFJMSZPHeuPr/Pantry-Node-team-library?type=design&node-id=0%3A1&t=5anUsNtQZ2wqrnO0-1) 
-- created a color guide for the frontend (in the figma project)
+- created a color guide for the frontend (in the figma project link)
+- created a style guide for the frontend (in the figma project link)
+- Opened the frontend issue which served as the main issue for mapping progress of the frontend team (https://github.com/ChicoState/PantryNode/issues/46)
 - ran scrums as scrum leader and reported progress to class during class standups 
 ### Sprint 2 (March 21 - April 3):
 - Built the Login & Signup Screens https://github.com/ChicoState/PantryNode/pull/84
