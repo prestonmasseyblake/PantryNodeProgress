@@ -25,6 +25,8 @@
 ### Sprint 2 (March 21 - April 3):
 - Built the Login & Signup Screens https://github.com/ChicoState/PantryNode/pull/84
 
+- Open an issue for creating Documentation Of Dependencies For Frontend Update Readme.md with how to start and dependencies. (Create Documentation Of Dependencies For Frontend Update Readme.md with how to start and dependencies). I ultimately completed this issue myself in a later sprint. But there was good debate and contributions from team members in this issue. 
+
 - Created an issue for developing the home screen and outlined what exactly needed to build and what style guidelines to follow. (https://github.com/ChicoState/PantryNode/issues/68)
 
 - Built out the form validation and axios requests for login and register https://github.com/ChicoState/PantryNode/pull/84
